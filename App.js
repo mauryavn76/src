@@ -94,6 +94,7 @@ const mathReducer = (state = {
      case "ADD":
       state = {
         ...state,
+       console.log("Printing Addintion of numbers");
         result: state.result + action.payload,
        lastValue: [...state.lastValue, action.payload]
       };
