@@ -2,7 +2,7 @@
 // import logo from './logo.svg';
 // import './App.css';
 
-// class App extends mr rajendra Component {
+// class App extends mr Component {
 //   render() {
 //     return (
 //       <div className="App">
