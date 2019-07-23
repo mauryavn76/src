@@ -86,7 +86,7 @@ import { createStore, combineReducers,applyMiddleware } from "redux";
 
 
 
-const mathReducer = (state = {
+ mathReducer = (state = {
   result: 1,
   lastValue: []
 }, action) => {
