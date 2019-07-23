@@ -49,7 +49,7 @@ import { createStore, combineReducers,applyMiddleware } from "redux";
 //       // state=state + action.payload; 
 //       break;
 //       case "SUBTRACT":
-//        state = 
+//        state = {
 //             ...state,
 //             result: state.result - action.payload,
 //             lastValue: [...state.lastValue, action.payload]
