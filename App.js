@@ -2,7 +2,7 @@
 // import logo from './logo.svg';
 // import './App.css';
 
-// class App extends Ashubhai good night Component {
+// class App extends Component {
 //   render() {
 //     return (
 //       <div className="App">
